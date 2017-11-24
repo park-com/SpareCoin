@@ -1,0 +1,2 @@
+# SpareCoin
+Study coin
